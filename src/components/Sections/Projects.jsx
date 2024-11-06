@@ -30,7 +30,7 @@ export default function Projects() {
               <ProjectBox
                 img={ProjectImg1}
                 title="Call of Duty"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                text="Engage in thrilling battles and strategic gameplay in this iconic shooter sensation."
                 action={() => alert("clicked")}
               />
             </div>
@@ -38,7 +38,7 @@ export default function Projects() {
               <ProjectBox
                 img={ProjectImg2}
                 title="Rocket League"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                text="Enjoy high-speed, rocket-powered soccer action with breathtaking aerial maneuvers and intense competition."
                 action={() => alert("clicked")}
               />
             </div>
@@ -46,7 +46,7 @@ export default function Projects() {
               <ProjectBox
                 img={ProjectImg3}
                 title="Tournament"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                text="Compete for glory, showcase your skills, and win prizes in exciting gaming tournaments."
                 action={() => alert("clicked")}
               />
             </div>
@@ -56,7 +56,7 @@ export default function Projects() {
               <ProjectBox
                 img={ProjectImg4}
                 title="CyberStorm Cup"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                text="Battle elite gamers in a thrilling digital competition for ultimate supremacy and rewards."
                 action={() => alert("clicked")}
               />
             </div>
@@ -64,7 +64,7 @@ export default function Projects() {
               <ProjectBox
                 img={ProjectImg5}
                 title="PixelPulse Showdown"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                text="Experience vibrant, retro-inspired competitions filled with clever tactics and colorful pixel battles."
                 action={() => alert("clicked")}
               />
             </div>
@@ -72,7 +72,7 @@ export default function Projects() {
               <ProjectBox
                 img={ProjectImg6}
                 title="NexusRift Masters"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                text="Conquer dynamic environments with strategy and skill in this epic quest for mastery."
                 action={() => alert("clicked")}
               />
             </div>
