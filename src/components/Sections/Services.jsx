@@ -62,8 +62,7 @@ export default function Services() {
                 <h4 className="font15 semiBold">A few words about company</h4>
                 <h2 className="font40 extraBold">A Study of Creativity</h2>
                 <p className="font12">
-                  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-                  diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                Delve into the heart of innovation, examining the processes and inspirations that fuel creative minds. This exploration offers valuable insights into how creativity transforms ideas into groundbreaking achievements.
                 </p>
                 <ButtonsRow className="flexNullCenter" style={{ margin: "30px 0"}}>
                   <div style={{ width: "190px" }}>
@@ -74,26 +73,15 @@ export default function Services() {
                   </div>
                 </ButtonsRow>
               </AddLeft>
-              <AddRight>
+              {/* <AddRight>
                 <AddRightInner>
                   <div className="flexNullCenter">
                     <AddImgWrapp1 className="flexCenter">
                       <img src={AddImage1} alt="office" />
                     </AddImgWrapp1>
-                    <AddImgWrapp2>
-                      <img src={AddImage2} alt="office" />
-                    </AddImgWrapp2>
-                  </div>
-                  <div className="flexNullCenter">
-                    <AddImgWrapp3>
-                      <img src={AddImage3} alt="office" />
-                    </AddImgWrapp3>
-                    <AddImgWrapp4>
-                      <img src={AddImage4} alt="office" />
-                    </AddImgWrapp4>
                   </div>
                 </AddRightInner>
-              </AddRight>
+              </AddRight> */}
             </Advertising>
           </div>
         </div>
